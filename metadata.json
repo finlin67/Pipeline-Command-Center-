@@ -1,0 +1,5 @@
+{
+  "name": "Pipeline Command Center",
+  "description": "Real-time pipeline monitoring and conversion analysis dashboard featuring a live pressure gauge, animated stats, and dark mode aesthetics.",
+  "requestFramePermissions": []
+}
